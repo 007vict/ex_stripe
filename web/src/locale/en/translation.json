@@ -1,0 +1,10 @@
+{
+  "header": {
+    "title": "Industry-standard Routing",
+    "description": "It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.",
+    "language": "EN",
+    "about": "About",
+    "contact": "contact"
+
+  }
+}

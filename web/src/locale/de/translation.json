@@ -1,0 +1,10 @@
+{
+  "header": {
+    "title": "Standard Routing",
+    "description": "Routing macht es möglich Seiten (z.B. '/about') Ihrer Anwendung hinzuzufügen.",
+    "language": "DE",
+    "about": "Uber uns",
+    "contact": "Kontakt"
+
+  }
+}
